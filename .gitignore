@@ -1,0 +1,11 @@
+/.metadata/
+.settings/
+target/
+classes/
+/leetcode/
+/Servers/
+.class
+.project
+.classpath
+.cache
+.settings
